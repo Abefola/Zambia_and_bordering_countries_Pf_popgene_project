@@ -1,0 +1,15 @@
+Province,category,prev
+Copperbelt,Polygenomic,71.43
+Eastern,Polygenomic,87.5
+Luapula,Polygenomic,84
+Muchinga,Polygenomic,70.59
+North-Western,Polygenomic,75
+Northern,Polygenomic,85
+Western,Polygenomic,60
+Copperbelt,Prevalence(PET-PCR),20
+Eastern,Prevalence(PET-PCR),15
+Luapula,Prevalence(PET-PCR),38
+Muchinga,Prevalence(PET-PCR),27
+North-Western,Prevalence(PET-PCR),22
+Northern,Prevalence(PET-PCR),15
+Western,Prevalence(PET-PCR),20
